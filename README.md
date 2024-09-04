@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **PHP,Laravel,.Net**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1jy5MgmvXKSCoYRVY7WD7KGWaHH2RCpCe/view?usp=drive_link](https://drive.google.com/file/d/1jy5MgmvXKSCoYRVY7WD7KGWaHH2RCpCe/view?usp=drive_link)
+- 👨‍💻 All of my projects are available at [[https://drive.google.com/file/d/1jy5MgmvXKSCoYRVY7WD7KGWaHH2RCpCe/view?usp=drive_link](https://drive.google.com/file/d/1jy5MgmvXKSCoYRVY7WD7KGWaHH2RCpCe/view?usp=drive_link)](https://drive.google.com/file/d/1ejH30IJdxPblUNn2_4Lwlw4Ip1XGVz5V/view?usp=drive_link)
 
 - 📫 How to reach me **khidmt55@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jy5MgmvXKSCoYRVY7WD7KGWaHH2RCpCe/view?usp=drive_link](https://drive.google.com/file/d/1jy5MgmvXKSCoYRVY7WD7KGWaHH2RCpCe/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1jy5MgmvXKSCoYRVY7WD7KGWaHH2RCpCe/view?usp=drive_link](https://drive.google.com/file/d/1jy5MgmvXKSCoYRVY7WD7KGWaHH2RCpCe/view?usp=drive_link)](https://drive.google.com/file/d/1ejH30IJdxPblUNn2_4Lwlw4Ip1XGVz5V/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
