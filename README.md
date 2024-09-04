@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kareem Hamed Ibrahim</h1>
-<h3 align="center">A passionate backend developer from Egypt</h3>
+<h3 align="center">A passionate web developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kareemhamed001&label=Profile%20views&color=0e75b6&style=flat" alt="kareemhamed001" /> </p>
 
-- 🔭 I’m currently working on **<a href="https://www.linkedin.com/company/chaara-app/" target="_blank">Chaara app company</a>**
-
-- 🌱 I’m currently learning **PHP,Laravel**
+- 🌱 I’m currently learning **PHP,Laravel,.Net**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1jy5MgmvXKSCoYRVY7WD7KGWaHH2RCpCe/view?usp=drive_link](https://drive.google.com/file/d/1jy5MgmvXKSCoYRVY7WD7KGWaHH2RCpCe/view?usp=drive_link)
 
