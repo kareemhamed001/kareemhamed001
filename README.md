@@ -21,22 +21,6 @@ I focus on turning complex business requirements into reliable, maintainable, an
 
 ---
 
-## 🚀 What I Do
-
-- **Backend Architecture**  
-  Design scalable monolithic and service-oriented systems
-
-- **Performance Optimization**  
-  Improve system performance by up to **70%** using caching, indexing, and query optimization
-
-- **API Design**  
-  Build clean, well-documented **REST** and **gRPC** APIs
-
-- **DevOps & Deployment**  
-  Manage deployments using **Docker, Nginx, VPS, and GitHub Actions**
-
----
-
 ## 🛠 Tech Stack
 
 | Category | Technologies |
