@@ -1,24 +1,60 @@
-<h1 align="center">Hi 👋, I'm Kareem Hamed Ibrahim</h1>
-<h3 align="center">A passionate web developer from Egypt</h3>
+# Hi there, I'm Kareem Hamed! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kareemhamed001&label=Profile%20views&color=0e75b6&style=flat" alt="kareemhamed001" /> </p>
+[span_0](start_span)I am a **Software Engineer** with over 3 years of experience specializing in building high-performance backend systems[span_0](end_span). [span_1](start_span)[span_2](start_span)I bridge the gap between complex business logic and scalable technical architecture, primarily using **PHP (Laravel)** and **Go**[span_1](end_span)[span_2](end_span).
 
-- 🌱 I’m currently learning **PHP,Laravel,.Net**
+[span_3](start_span)I hold a **Bachelor's of Computer Science with Honors** (GPA 3.41/4.0) from Suez University, where I received an **A+** for my Deep Fake Detection graduation project[span_3](end_span).
 
-- 👨‍💻 All of my projects are available at <a href="https://drive.google.com/file/d/1ejH30IJdxPblUNn2_4Lwlw4Ip1XGVz5V/view?usp=drive_link" target="_blank">Drive</a>
+---
 
+### 🚀 what I do
+* **[span_4](start_span)[span_5](start_span)Backend Architecture:** Designing scalable, maintainable microservices and monolithic systems[span_4](end_span)[span_5](end_span).
+* **[span_6](start_span)[span_7](start_span)Performance Optimization:** Improved system performance by up to 70% through caching, database indexing, and query optimization[span_6](end_span)[span_7](end_span).
+* **[span_8](start_span)DevOps & Deployment:** Managing production environments using Nginx, VPS, and CI/CD pipelines (GitHub Actions) to reduce deployment errors by 80%[span_8](end_span).
+* **[span_9](start_span)[span_10](start_span)[span_11](start_span)API Design:** Crafting clean, well-documented RESTful and gRPC APIs for web and mobile platforms[span_9](end_span)[span_10](end_span)[span_11](end_span).
 
-- 📫 How to reach me **khidmt55@gmail.com**
+---
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ejH30IJdxPblUNn2_4Lwlw4Ip1XGVz5V/view?usp=drive_link" target="_blank">Drive</a>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kareemhamed001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kareemhamed001" height="30" width="40" /></a>
-<a href="https://fb.com/kareemhamid001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kareemhamid001" height="30" width="40" /></a>
-  <a href="https://wa.me/201021638451" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="+201021638451" height="30" width="40" /></a>
-</p>
+### 🛠️ My Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | [span_12](start_span)PHP, Go (Golang), C#, JavaScript[span_12](end_span) |
+| **Frameworks** | [span_13](start_span)Laravel, Vue.js, ASP.Net Core, Bootstrap[span_13](end_span) |
+| **Databases** | [span_14](start_span)[span_15](start_span)[span_16](start_span)MySQL, PostgreSQL, MongoDB, Redis[span_14](end_span)[span_15](end_span)[span_16](end_span) |
+| **Infrastructure** | [span_17](start_span)[span_18](start_span)[span_19](start_span)Docker, Nginx, GitHub Actions, RabbitMQ[span_17](end_span)[span_18](end_span)[span_19](end_span) |
+| **[span_20](start_span)[span_21](start_span)Communication** | gRPC, Protocol Buffers, WebSockets, REST[span_20](end_span)[span_21](end_span) |
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kareemhamed001&show_icons=true&locale=en&layout=compact" alt="kareemhamed001" /></p>
+---
+
+### 🌟 Featured Projects
+
+#### **[span_22](start_span)Ride Sharing Backend**[span_22](end_span)
+[span_23](start_span)A production-grade, horizontally-scalable microservices system built with **Go**[span_23](end_span).
+* **[span_24](start_span)Architecture:** Four core services (API Gateway, Trip, Driver, Payment) with event-driven communication[span_24](end_span).
+* **[span_25](start_span)Tech:** Go 1.24, gRPC, Protocol Buffers, RabbitMQ, and Stripe API[span_25](end_span).
+
+#### **[span_26](start_span)Mada Store - Multi-Vendor E-commerce**[span_26](end_span)
+[span_27](start_span)A complex e-commerce platform with a 70% performance improvement post-optimization[span_27](end_span).
+* **[span_28](start_span)Features:** Real-time auction system, affiliate marketing, and granular Role-Based Access Control (RBAC)[span_28](end_span).
+* **[span_29](start_span)[span_30](start_span)Scale:** Multi-language, multi-currency, and comprehensive shipping/tracking management[span_29](end_span)[span_30](end_span).
+
+#### **[span_31](start_span)Real-Time Chat App**[span_31](end_span)
+[span_32](start_span)A full-stack messaging platform focused on instant communication[span_32](end_span).
+* **[span_33](start_span)Backend:** Built with **Go** and **WebSockets** for real-time messaging[span_33](end_span).
+* **[span_34](start_span)Frontend:** Interactive interface built with **Vue.js** and secured with JWT authentication[span_34](end_span).
+
+---
+
+### 📈 Professional Highlights
+* **[span_35](start_span)Software Engineer at Mada Software:** Converted Figma designs to Blade and optimized APIs for Flutter apps[span_35](end_span).
+* **[span_36](start_span)[span_37](start_span)Global Experience:** Developed solutions for companies in **Egypt, UK, London, and Spain**[span_36](end_span)[span_37](end_span).
+* **[span_38](start_span)[span_39](start_span)[span_40](start_span)Diverse Domain Expertise:** Built systems for Real Estate (HML Homes), University Management (Knowledge University), and Delivery Services (Sprint)[span_38](end_span)[span_39](end_span)[span_40](end_span).
+
+---
+
+### 📫 Let's Connect!
+* **[span_41](start_span)Email:** [kareemhamedibrahim@gmail.com](mailto:kareemhamedibrahim@gmail.com)[span_41](end_span)
+* **[span_42](start_span)LinkedIn:** [linkedin.com/in/kareemhamed001](https://www.linkedin.com/in/kareemhamed001/)[span_42](end_span)
+* **[span_43](start_span)Portfolio/GitHub:** [github.com/kareemhamed001](https://github.com/kareemhamed001)[span_43](end_span)
+
+---
