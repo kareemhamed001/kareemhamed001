@@ -92,21 +92,10 @@ A full-stack real-time messaging system.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kareemhamed001&show_icons=true&theme=default&hide_border=true&cache_seconds=1800"
-    height="165"
-  />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=kareemhamed001&style=flat)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemhamed001&layout=compact&theme=default&hide_border=true&cache_seconds=1800"
-    height="165"
-  />
-</p>
 
 ---
 
