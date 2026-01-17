@@ -7,7 +7,7 @@
 
 ## 👋 About Me
 
-I’m a **Software Engineer** with **3+ years of experience** in backend development and system optimization.  
+I’m a **Software Engineer** specialized in backend development and system optimization.  
 I focus on turning complex business requirements into reliable, maintainable, and scalable backend solutions.
 
 - Strong experience with **PHP (Laravel)** and **Go (Golang)**
