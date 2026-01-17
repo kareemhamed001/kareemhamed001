@@ -16,7 +16,7 @@ I focus on turning complex business requirements into reliable, maintainable, an
 - Worked with clients across **Egypt, UK, and Spain**
 
 🎓 **BSc in Computer Science (Honors)** — Suez University  
-📊 GPA: **3.41 / 4.0**  
+📊 GPA: **3.44 / 4.0**  
 🏆 Graduation Project: **Deep Fake Detection (A+)**
 
 ---
